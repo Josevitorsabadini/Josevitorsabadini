@@ -1,16 +1,3 @@
-<!-- ================================================================ -->
-<!--           GITHUB PROFILE README — @Josevitorsabadini             -->
-<!-- ================================================================ -->
-
-<!-- BARRA ROXA TOPO -->
-<img width="100%" height="2" src="https://via.placeholder.com/1000x2/5b21b6/5b21b6?text=+" />
-
-<br>
-
-```
-// hello, world
-```
-
 # **José Vitor** Sabadini
 `full stack dev · backend tem o seu charme`
 
