@@ -1,7 +1,5 @@
-# **José Vitor** Sabadini
-`full stack dev · backend tem o seu charme`
-
-<br>
+# **José Vitor** Sabadini Medeiros
+`full stack dev em construção`
 
 ---
 
@@ -9,10 +7,10 @@
 
 ```js
 const dev = {
-  name:   "José Vitor Sabadini",
-  stack:  "full stack",        // backend tem o seu charme
+  name: "José Vitor Sabadini Medeiros",
+  stack: "full stack",
   status: "aprendendo todos os dias",
-  motto:  "um pouco de tudo — ainda mais na era da IA"
+  filosofia: "nunca desista"
 };
 ```
 
@@ -32,7 +30,6 @@ const dev = {
 
 <!-- BANCO — verde -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-040f08?style=flat-square&logo=postgresql&logoColor=6ee7a0)
-![SQL/NoSQL](https://img.shields.io/badge/SQL%20%2F%20NoSQL-040f08?style=flat-square&logo=databricks&logoColor=6ee7a0)
 
 <!-- FERRAMENTAS — laranja -->
 ![Git](https://img.shields.io/badge/Git-160a02?style=flat-square&logo=git&logoColor=fb923c)
@@ -43,7 +40,7 @@ const dev = {
 ## `// contato`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0e0820?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Josevitorsabadini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=8b949e)](https://linkedin.com/in/josevitorsabadini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=8b949e)](https://www.linkedin.com/in/josesabadini)
 
 <br>
 
