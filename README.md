@@ -8,9 +8,10 @@
 ```js
 const dev = {
   name: "José Vitor Sabadini Medeiros",
-  stack: "full stack",
-  status: "aprendendo todos os dias",
-  filosofia: "nunca desista"
+  role: "full stack developer",
+  currentFocus: ["Node.js", "APIs REST", "PostgreSQL"],
+  status: "em evolução constante",
+  filosofia: "consistência > motivação"
 };
 ```
 
@@ -44,4 +45,4 @@ const dev = {
 
 <br>
 
-<sub>`josevitorsabadini // profile readme · 2025`</sub>
+<sub>`josevitorsabadini // profile readme · 2026`</sub>
