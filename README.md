@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- ================================================================ -->
+<!--           GITHUB PROFILE README — @Josevitorsabadini             -->
+<!-- ================================================================ -->
 
-<!--
-**Josevitorsabadini/Josevitorsabadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BARRA ROXA TOPO -->
+<img width="100%" height="2" src="https://via.placeholder.com/1000x2/5b21b6/5b21b6?text=+" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+// hello, world
+```
+
+# **José Vitor** Sabadini
+`full stack dev · backend tem o seu charme`
+
+<br>
+
+---
+
+## `// sobre`
+
+```js
+const dev = {
+  name:   "José Vitor Sabadini",
+  stack:  "full stack",        // backend tem o seu charme
+  status: "aprendendo todos os dias",
+  motto:  "um pouco de tudo — ainda mais na era da IA"
+};
+```
+
+---
+
+## `// stack`
+
+<!-- BACKEND / JS — roxo -->
+![JavaScript](https://img.shields.io/badge/JavaScript-0e0820?style=flat-square&logo=javascript&logoColor=a78bfa)
+![Node.js](https://img.shields.io/badge/Node.js-0e0820?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
+![Fastify](https://img.shields.io/badge/Fastify-0e0820?style=flat-square&logo=fastify&logoColor=a78bfa)
+
+<!-- FRONTEND — azul -->
+![HTML](https://img.shields.io/badge/HTML-060e1c?style=flat-square&logo=html5&logoColor=7db4f0)
+![CSS](https://img.shields.io/badge/CSS-060e1c?style=flat-square&logo=css3&logoColor=7db4f0)
+![React](https://img.shields.io/badge/React-060e1c?style=flat-square&logo=react&logoColor=7db4f0)
+
+<!-- BANCO — verde -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-040f08?style=flat-square&logo=postgresql&logoColor=6ee7a0)
+![SQL/NoSQL](https://img.shields.io/badge/SQL%20%2F%20NoSQL-040f08?style=flat-square&logo=databricks&logoColor=6ee7a0)
+
+<!-- FERRAMENTAS — laranja -->
+![Git](https://img.shields.io/badge/Git-160a02?style=flat-square&logo=git&logoColor=fb923c)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-160a02?style=flat-square&logo=anthropic&logoColor=fb923c)
+
+---
+
+## `// contato`
+
+[![GitHub](https://img.shields.io/badge/GitHub-0e0820?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Josevitorsabadini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=flat-square&logo=linkedin&logoColor=8b949e)](https://linkedin.com/in/josevitorsabadini)
+
+<br>
+
+<sub>`josevitorsabadini // profile readme · 2025`</sub>
