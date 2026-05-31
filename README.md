@@ -10,7 +10,6 @@ const dev = {
   name: "José Vitor Sabadini Medeiros",
   role: "full stack developer",
   currentFocus: ["Node.js", "APIs REST", "PostgreSQL"],
-  status: "em evolução constante",
   filosofia: "consistência > motivação"
 };
 ```
