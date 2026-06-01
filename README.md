@@ -1,5 +1,5 @@
-# **José Vitor** Sabadini Medeiros
-`full stack dev em construção`
+# **José Vitor** Sabadini
+`full stack dev`
 
 ---
 
